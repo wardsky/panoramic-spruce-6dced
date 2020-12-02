@@ -45,7 +45,7 @@ sections:
           euismod lacinia.
         align: left
         image: images/man-in-a-red.jpeg
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /features
