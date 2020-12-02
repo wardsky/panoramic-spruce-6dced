@@ -43,7 +43,7 @@ sections:
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
-        align: left
+        align: right
         image: images/man-in-a-red.jpeg
         image_position: left
         actions:
