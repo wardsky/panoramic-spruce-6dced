@@ -32,7 +32,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/jumping-spider.jpeg
         image_position: right
         actions:
           - label: Learn More
