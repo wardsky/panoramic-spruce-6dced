@@ -56,7 +56,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/feature.svg
+        image: images/graceful-neptune.jpeg
         image_position: right
         actions:
           - label: Learn More
